@@ -3,8 +3,12 @@ body{
 	padding: 0;
 }
 
+.input_region{
+	width:300px;
+}
+
 .item_panel{
-	margin-bottom:20px;
+	margin:20px 0;
 }
 .item_panel label{
 	margin-right:20px;
