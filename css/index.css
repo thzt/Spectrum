@@ -1,0 +1,12 @@
+body{
+	margin:0;
+	padding: 0;
+}
+
+.item_panel{
+	margin-bottom:20px;
+}
+.item_panel label{
+	margin-right:20px;
+	cursor:pointer;
+}
