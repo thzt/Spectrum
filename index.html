@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Skill spectrum</title>
+		
+		<script src="component/jquery/jquery-1.11.1.js"></script>
+		<script src="component/library/condition/condition.js"></script>
+		<script src="component/library/simplepluginmanager/simplepluginmanager.js"></script>
+
+		
+		
+		<link rel="stylesheet" href="component/jqueryplugin/spectrum/spectrum.css">
+		<script src="component/jqueryplugin/spectrum/spectrum.js"></script>
+		
+		<style>
+		body{
+			background: black;
+			margin:0;
+			padding: 0;
+		}
+		</style>
+	</head>
+	<body>
+		
+		<div id="spectrum"></div>
+		
+		<script>
+		$(function(){
+			var json=[
+				{
+					name:'Java',
+					width:100
+				},
+				{
+					name:'C#',
+					width:190
+				}
+			];
+			
+			$('#spectrum').spectrum('init',{
+				data:json
+			});
+		});
+		</script>
+		
+	</body>
+</html>
