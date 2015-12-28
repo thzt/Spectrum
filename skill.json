@@ -1,0 +1,106 @@
+[
+    {
+        "text": "Basic",
+        "value": 0.25
+    },
+    {
+        "text": "C",
+        "value": 0.75
+    },
+    {
+        "text": "VB",
+        "value": 0.5
+    },
+    {
+        "text": "Assembly",
+        "value": 0.5
+    },
+    {
+        "text": "C++",
+        "value": 0.5
+    },
+    {
+        "text": "JavaScript",
+        "value": 1
+    },
+    {
+        "text": "C#",
+        "value": 0.75
+    },
+    {
+        "text": "SQL",
+        "value": 0.5
+    },
+    {
+        "text": "Scheme",
+        "value": 1
+    },
+    {
+        "text": "Prolog",
+        "value": 0.25
+    },
+    {
+        "text": "Fortran",
+        "value": 0.5
+    },
+    {
+        "text": "Matlab",
+        "value": 0.5
+    },
+    {
+        "text": "Java",
+        "value": 0.5
+    },
+    {
+        "text": "Haskell",
+        "value": 0.75
+    },
+    {
+        "text": "Common Lisp",
+        "value": 0.5
+    },
+    {
+        "text": "Racket",
+        "value": 0.75
+    },
+    {
+        "text": "Erlang",
+        "value": 0.5
+    },
+    {
+        "text": "Python",
+        "value": 0.75
+    },
+    {
+        "text": "Clojure",
+        "value": 0.5
+    },
+    {
+        "text": "Go",
+        "value": 0.25
+    },
+    {
+        "text": "PHP",
+        "value": 0.75
+    },
+    {
+        "text": "Swift",
+        "value": 0.25
+    },
+    {
+        "text": "R",
+        "value": 0.25
+    },
+    {
+        "text": "ML",
+        "value": 0.5
+    },
+    {
+        "text": "Rust",
+        "value": 0.25
+    },
+    {
+        "text": "Ruby",
+        "value": 0.25
+    }
+]
