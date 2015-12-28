@@ -31,8 +31,6 @@ $(function(){
 					text=$field.find('>td:first-child>span').html(),
 					value=($field.find('>td:last-child>:radio:checked').index()/2+1)/4;
 
-				console.log(value);
-
 				return {
 					text:text,
 					value:value
