@@ -7,6 +7,23 @@ body{
 	width:600px;
 }
 
+.input_region{
+	border-collapse:collapse;
+	width:100%;
+}
+.input_region>tbody>tr>td:first-child{
+	padding-right:20px;
+}
+.input_region>tbody>tr>td:first-child>input{
+	width:100%;
+}
+.input_region>tbody>tr>td:last-child{
+	width:100px;
+}
+.input_region>tbody>tr>td:last-child>input{
+	width:100%;
+}
+
 .item_panel{
 	margin:20px 0;
 }
